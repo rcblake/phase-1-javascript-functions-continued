@@ -13,4 +13,3 @@ function wrapAdjective (flairStyle = `*`,) {
         
 }
 }
-encouragingPrompt = wrapAdjective("!!!")
